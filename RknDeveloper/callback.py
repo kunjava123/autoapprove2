@@ -35,16 +35,16 @@ async def about(bot,update):
 	    #⚠️ don't change source code & source link ⚠️ #
 	    text = """<b>» Mʏ Nᴀᴍᴇ: <a href='https://t.me/AUTOJOINAPPROVEBOT'>Aᴜᴛᴏ Jᴏɪɴ Rᴇǫᴜᴇsᴛ Bᴏᴛ</a>
 ‣ Cʀᴇᴀᴛᴏʀ : <a href='tg://settings'>ᴛʜɪs Pᴇʀsᴏɴ</a>
-‣ Dᴇᴠᴇʟᴏᴘᴇʀ : <a href='https://t.me/RknDeveloperr'>ʀᴋɴ Dᴇᴠᴇʟᴏᴘᴇʀ</a>
+‣ Dᴇᴠᴇʟᴏᴘᴇʀ : <a href='https://t.me/KT_BOTS'>ʀᴋɴ Dᴇᴠᴇʟᴏᴘᴇʀ</a>
 ‣ Lɪʙʀᴀʀʏ : <a href='https://docs.pyrogram.org'>Pʏʀᴏɢʀᴀᴍ</a>
 ‣ Lᴀɴɢᴜᴀɢᴇ : <a href='https://www.python.org'>Pʏᴛʜᴏɴ 3</a>
 ‣ Dᴀᴛᴀ Bᴀsᴇ : <a href='https://www.mongodb.com/'>Mᴏɴɢᴏ Dʙ</a>
 ‣ Bᴏᴛ Sᴇʀᴠᴇʀ : ‣[Vᴘs]‣<a href='https://app.koyeb.com/'>[Kᴏʏᴇʙ]</a>
-‣ Sᴏᴜʀᴄᴇ : <a href='https://github.com/RknDeoper/Rkn_Auto-Re-Aovebot'> Sᴏᴜʀᴄᴇ Cᴏᴅᴇ </a>
+‣ Sᴏᴜʀᴄᴇ : <a href='https://github.com/RknDeoper/Rkn_Auto-Re-Aovebt'> Sᴏᴜʀᴄᴇ Cᴏᴅᴇ </a>
 ‣ Bᴜɪʟᴅ Sᴛᴀᴛᴜs : ᴠ3.8.3 [sᴛᴀʙʟᴇ]</b>""",
 	    reply_markup=InlineKeyboardMarkup( [[
                #⚠️ don't change source code & source link ⚠️ #
-               InlineKeyboardButton("❣️ Sᴏᴜʀᴄᴇ Cᴏᴅᴇ ❣️", url="https://github.com/Rknveloper/Rkn_Auto-Req-Aprove-bot")],[
+               InlineKeyboardButton("❣️ Sᴏᴜʀᴄᴇ Cᴏᴅᴇ ❣️", url="https://github.com/knveoper/Auteq-Aprove-bt")],[
                InlineKeyboardButton("→ Bᴀᴄᴋ", callback_data = "rkn_developer")
                ]]
             )
