@@ -20,7 +20,7 @@ async def approve(bot, m : Message):
         add_group(m.chat.id)
         await bot.send_message(
             rkn1.LOG_CHANNEL,
-            f"**--#NᴇᴡGʀᴏᴜᴘ @RknDeveloper--**\n\nCʜᴀɴɴᴇʟ & Gʀᴏᴜᴘ Iᴅ: {m.chat.id}\nTɪᴛʟᴇ: `{m.chat.title}`\nUɴ: @{m.chat.username}\n\nBʏ: {m.from_user.mention}"
+            f"**--#NᴇᴡGʀᴏᴜᴘ @kt_bots--**\n\nCʜᴀɴɴᴇʟ & Gʀᴏᴜᴘ Iᴅ: {m.chat.id}\nTɪᴛʟᴇ: `{m.chat.title}`\nUɴ: @{m.chat.username}\n\nBʏ: {m.from_user.mention}"
         )
         await bot.approve_chat_join_request(op.id, kk.id)
         img = random.choice(rkn1.SURPRICE)
